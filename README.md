@@ -27,4 +27,5 @@ To summarize, the audit revealed:
 
 4. There was no change to the scores by school spending, size or type.
 
-A version of this analysis, with images is available in the resources folder:
+A PDF version of this analysis, with images, may be accessed via this link:
+https://github.com/degitaccount/School_District_Analysis/blob/main/Resources/School_District_Analysis_with_images.pdf
