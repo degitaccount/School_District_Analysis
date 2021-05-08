@@ -26,3 +26,5 @@ To summarize, the audit revealed:
 3. Replacing the scores for the Thomas High School ninth-graders had no impact on the average scores for 10th-11th graders.
 
 4. There was no change to the scores by school spending, size or type.
+
+A version of this analysis, with images is available in the resources folder:
